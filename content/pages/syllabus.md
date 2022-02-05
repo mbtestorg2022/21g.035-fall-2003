@@ -22,14 +22,96 @@ Topics for Fall 2003 include precursors to globalization, world hip-hop, media p
 Course Requirements
 -------------------
 
-| ACTIVITIES | PERCENTAGES | DUE DATE |
-| --- | --- | --- |
-| Discussion, Attendance | 15% | &nbsp; |
-| Essay 1 (3 pages) - Cultural Power | 10% | Week 3 |
-| Essay 2 (5 pages) - Global Hip-Hop | 15% | Week 8< |
-| Essay 3 (5 pages) - Media Worlds | 15% | Week 1 |
-| Individual Presentations | 15% | Weeks 10-13 |
-| Final Paper (6-8 pages) | 25% | ast Class 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+{{< thopen >}}
+DUE DATE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion, Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1 (3 pages) - Cultural Power
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+Week 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2 (5 pages) - Global Hip-Hop
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+Week 8\<
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 3 (5 pages) - Media Worlds
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+Week 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+Weeks 10-13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper (6-8 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+{{< tdopen >}}
+ast Class
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
